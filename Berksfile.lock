@@ -3,6 +3,9 @@
     "nginx": {
       "locked_version": "0.101.2"
     },
+    "app": {
+      "path": "./app"
+    },
     "build-essential": {
       "locked_version": "1.4.0"
     },
