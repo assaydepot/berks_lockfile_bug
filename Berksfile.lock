@@ -1,26 +1,25 @@
 {
   "sources": {
-    "god": {
-      "locked_version": "1.0.3",
-      "git": "git@github.com:assaydepot/god-cookbook.git",
-      "ref": "23cc60f7317aa0a2331800fd3b3e4b48327a72a7"
-    },
-    "papertrail": {
-      "locked_version": "0.0.3",
-      "git": "git://github.com/librato/papertrail-cookbook.git",
-      "ref": "9cc0f2c217df65e71a38a3ff4b0d5733172ec32f"
-    },
-    "runit": {
-      "locked_version": "1.1.4"
+    "nginx": {
+      "locked_version": "0.101.2"
     },
     "build-essential": {
       "locked_version": "1.4.0"
     },
+    "runit": {
+      "locked_version": "1.1.4"
+    },
     "yum": {
       "locked_version": "2.2.0"
     },
+    "bluepill": {
+      "locked_version": "2.2.2"
+    },
     "rsyslog": {
       "locked_version": "1.5.0"
+    },
+    "ohai": {
+      "locked_version": "1.0.2"
     }
   }
 }
